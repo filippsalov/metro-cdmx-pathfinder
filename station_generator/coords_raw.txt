@@ -1,0 +1,223 @@
+Línea 1 (Pantitlán – Observatorio)
+
+Pantitlán: X=878, Y=614, XR=0.8011, YR=0.4838
+Zaragoza: X=827, Y=604, XR=0.7546, YR=0.476
+Gómez Farías: X=801, Y=580, XR=0.7308, YR=0.4571
+Boulevard Puerto Aéreo: X=791, Y=539, XR=0.7217, YR=0.4247
+Balbuena: X=784, Y=500, XR=0.7153, YR=0.394
+Moctezuma: X=752, Y=468, XR=0.6861, YR=0.3688
+San Lázaro: X=711, Y=425, XR=0.6487, YR=0.3349
+Candelaria: X=673, Y=427, XR=0.6141, YR=0.3365
+Merced: X=598, Y=502, XR=0.5456, YR=0.3956
+Pino Suárez: X=559, Y=514, XR=0.51, YR=0.405
+Isabel la Católica: X=508, Y=519, XR=0.4635, YR=0.409
+Salto del Agua: X=457, Y=519, XR=0.417, YR=0.409
+Balderas: X=377, Y=519, XR=0.344, YR=0.409
+Cuauhtémoc: X=334, Y=517, XR=0.3047, YR=0.4074
+Insurgentes: X=295, Y=517, XR=0.2692, YR=0.4074
+Sevilla: X=257, Y=548, XR=0.2345, YR=0.4318
+Chapultepec: X=220, Y=584, XR=0.2007, YR=0.4602
+Juanacatlán: X=187, Y=618, XR=0.1706, YR=0.487
+Tacubaya: X=152, Y=652, XR=0.1387, YR=0.5138
+Observatorio: X=114, Y=693, XR=0.104, YR=0.5461
+
+Línea 2 (Cuatro Caminos – Tasqueña)
+
+Cuatro Caminos: X=41, Y=326, XR=0.0374, YR=0.2569
+Panteones: X=100, Y=326, XR=0.0912, YR=0.2569
+Tacuba: X=150, Y=324, XR=0.1369, YR=0.2553
+Cuitláhuac: X=172, Y=347, XR=0.1569, YR=0.2734
+Popotla: X=196, Y=374, XR=0.1788, YR=0.2947
+Colegio Militar: X=223, Y=393, XR=0.2035, YR=0.3097
+Normal: X=256, Y=394, XR=0.2336, YR=0.3105
+San Cosme: X=296, Y=393, XR=0.2701, YR=0.3097
+Revolución: X=344, Y=393, XR=0.3139, YR=0.3097
+Hidalgo: X=378, Y=394, XR=0.3449, YR=0.3105
+Bellas Artes: X=455, Y=394, XR=0.4151, YR=0.3105
+Allende: X=528, Y=408, XR=0.4818, YR=0.3215
+Zócalo/Tenochtitlan: X=561, Y=452, XR=0.5119, YR=0.3562
+Pino Suárez: X=561, Y=517, XR=0.5119, YR=0.4074
+San Antonio Abad: X=561, Y=604, XR=0.5119, YR=0.476
+Chabacano: X=561, Y=648, XR=0.5119, YR=0.5106
+Viaducto: X=559, Y=701, XR=0.51, YR=0.5524
+Xola: X=559, Y=733, XR=0.51, YR=0.5776
+Villa de Cortés: X=559, Y=768, XR=0.51, YR=0.6052
+Nativitas: X=559, Y=803, XR=0.51, YR=0.6328
+Portero: X=559, Y=837, XR=0.51, YR=0.6596
+Ermita: X=557, Y=873, XR=0.5082, YR=0.6879
+General Anaya: X=559, Y=906, XR=0.51, YR=0.7139
+Tasqueña: X=561, Y=941, XR=0.5119, YR=0.7415
+
+
+Línea 3 (Indios Verdes – Universidad)
+Indios Verdes: X=482, Y=111, XR=0.4398, YR=0.0875
+Deportivo 18 de Marzo: X=481, Y=190, XR=0.4389, YR=0.1497
+Potrero: X=467, Y=222, XR=0.4261, YR=0.1749
+La Raza: X=436, Y=249, XR=0.3978, YR=0.1962
+Tlatelolco: X=412, Y=278, XR=0.3759, YR=0.2191
+Guerrero: X=377, Y=357, XR=0.344, YR=0.2813
+Hidalgo: X=378, Y=396, XR=0.3449, YR=0.3121
+Juárez: X=377, Y=454, XR=0.344, YR=0.3578
+Balderas: X=378, Y=519, XR=0.3449, YR=0.409
+Niños Héroes: X=377, Y=551, XR=0.344, YR=0.4342
+Hospital General: X=378, Y=589, XR=0.3449, YR=0.4641
+Centro Médico: X=378, Y=652, XR=0.3449, YR=0.5138
+Etiopía-Plaza de la Transparencia: X=377, Y=686, XR=0.344, YR=0.5406
+Eugenia: X=377, Y=723, XR=0.344, YR=0.5697
+División del Norte: X=378, Y=759, XR=0.3449, YR=0.5981
+Zapata: X=378, Y=793, XR=0.3449, YR=0.6249
+Coyoacán: X=377, Y=827, XR=0.344, YR=0.6517
+Viveros-Derechos Humanos: X=377, Y=861, XR=0.344, YR=0.6785
+Miguel Ángel de Quevedo: X=377, Y=897, XR=0.344, YR=0.7069
+Copilco: X=377, Y=933, XR=0.344, YR=0.7352
+Universidad: X=377, Y=965, XR=0.344, YR=0.7604
+
+
+Línea 4 (Martín Carrera – Santa Anita)
+Martín Carrera: X=673, Y=188, XR=0.6141, YR=0.1481
+Talismán: X=671, Y=220, XR=0.6122, YR=0.1734
+Bondojito: X=671, Y=248, XR=0.6122, YR=0.1954
+Consulado: X=671, Y=299, XR=0.6122, YR=0.2356
+Canal del Norte: X=671, Y=347, XR=0.6122, YR=0.2734
+Morelos: X=671, Y=388, XR=0.6122, YR=0.3058
+Candelaria: X=671, Y=425, XR=0.6122, YR=0.3349
+Fray Servando: X=673, Y=560, XR=0.6141, YR=0.4413
+Jamaica: X=673, Y=653, XR=0.6141, YR=0.5146
+Santa Anita: X=673, Y=708, XR=0.6141, YR=0.5579
+
+Línea 5 (Pantitlán – Politécnico)
+
+Pantitlán: X=878, Y=609, XR=0.8011, YR=0.4799
+Hangares: X=878, Y=537, XR=0.8011, YR=0.4232
+Terminal Aérea: X=876, Y=476, XR=0.7993, YR=0.3751
+Oceanía: X=818, Y=379, XR=0.7464, YR=0.2987
+Aragón: X=774, Y=338, XR=0.7062, YR=0.2664
+Eduardo Molina: X=743, Y=306, XR=0.6779, YR=0.2411
+Consulado: X=675, Y=297, XR=0.6159, YR=0.234
+Valle Gómez: X=576, Y=297, XR=0.5255, YR=0.234
+Misterios: X=463, Y=277, XR=0.4224, YR=0.2183
+La Raza: X=438, Y=248, XR=0.3996, YR=0.1954
+Autobuses del Norte: X=406, Y=220, XR=0.3704, YR=0.1734
+Instituto del Petróleo: X=377, Y=188, XR=0.344, YR=0.1481
+Politécnico: X=334, Y=127, XR=0.3047, YR=0.1001
+
+Línea 6 (El Rosario – Martín Carrera)
+El Rosario: X=148, Y=149, XR=0.135, YR=0.1174
+Tezozómoc: X=170, Y=171, XR=0.1551, YR=0.1348
+UAM-Azcapotzalco: X=210, Y=193, XR=0.1916, YR=0.1521
+Ferrería/Arena Ciudad de México: X=247, Y=192, XR=0.2254, YR=0.1513
+Norte 45: X=295, Y=190, XR=0.2692, YR=0.1497
+Vallejo: X=329, Y=188, XR=0.3002, YR=0.1481
+Instituto del Petróleo: X=377, Y=188, XR=0.344, YR=0.1481
+Lindavista: X=445, Y=186, XR=0.406, YR=0.1466
+Deportivo 18 de Marzo: X=481, Y=188, XR=0.4389, YR=0.1481
+La Villa-Basílica: X=571, Y=192, XR=0.521, YR=0.1513
+Martín Carrera: X=673, Y=190, XR=0.6141, YR=0.1497
+
+Línea 7 (El Rosario – Barranca del Muerto)
+El Rosario: X=148, Y=151, XR=0.135, YR=0.119
+Aquiles Serdán: X=150, Y=197, XR=0.1369, YR=0.1552
+Camarones: X=150, Y=227, XR=0.1369, YR=0.1789
+Refinería: X=152, Y=285, XR=0.1387, YR=0.2246
+Tacuba: X=148, Y=324, XR=0.135, YR=0.2553
+San Joaquín: X=150, Y=405, XR=0.1369, YR=0.3191
+Polanco: X=150, Y=464, XR=0.1369, YR=0.3656
+Auditorio: X=152, Y=529, XR=0.1387, YR=0.4169
+Constituyentes: X=150, Y=594, XR=0.1369, YR=0.4681
+Tacubaya: X=150, Y=652, XR=0.1369, YR=0.5138
+San Pedro de los Pinos: X=150, Y=711, XR=0.1369, YR=0.5603
+San Antonio: X=152, Y=747, XR=0.1387, YR=0.5887
+Mixcoac: X=150, Y=791, XR=0.1369, YR=0.6233
+Barranca del Muerto: X=150, Y=849, XR=0.1369, YR=0.669
+
+Línea 8 (Garibaldi – Constitución de 1917)
+Garibaldi-Lagunilla: X=457, Y=357, XR=0.417, YR=0.2813
+Bellas Artes: X=457, Y=393, XR=0.417, YR=0.3097
+San Juan de Letrán: X=455, Y=452, XR=0.4151, YR=0.3562
+Salto del Agua: X=458, Y=517, XR=0.4179, YR=0.4074
+Doctores: X=469, Y=565, XR=0.4279, YR=0.4452
+Obrera: X=499, Y=594, XR=0.4553, YR=0.4681
+Chabacano: X=559, Y=650, XR=0.51, YR=0.5122
+La Viga: X=596, Y=691, XR=0.5438, YR=0.5445
+Santa Anita: X=671, Y=706, XR=0.6122, YR=0.5563
+Coyuya: X=726, Y=745, XR=0.6624, YR=0.5871
+Iztacalco: X=724, Y=776, XR=0.6606, YR=0.6115
+Apatlaco: X=726, Y=814, XR=0.6624, YR=0.6414
+Aculco: X=726, Y=849, XR=0.6624, YR=0.669
+Escuadrón 201: X=726, Y=882, XR=0.6624, YR=0.695
+Atlalilco: X=740, Y=911, XR=0.6752, YR=0.7179
+Iztapalapa: X=767, Y=928, XR=0.6998, YR=0.7313
+Cerro de la Estrella: X=799, Y=926, XR=0.729, YR=0.7297
+UAM-I: X=833, Y=926, XR=0.76, YR=0.7297
+Constitución de 1917: X=871, Y=928, XR=0.7947, YR=0.7313
+
+Línea 9 (Pantitlán – Tacubaya)
+Pantitlán: X=878, Y=611, XR=0.8011, YR=0.4815
+Puebla: X=857, Y=638, XR=0.7819, YR=0.5028
+Ciudad Deportiva: X=825, Y=652, XR=0.7527, YR=0.5138
+Velódromo: X=777, Y=652, XR=0.7089, YR=0.5138
+Mixiuhca: X=734, Y=652, XR=0.6697, YR=0.5138
+Jamaica: X=671, Y=650, XR=0.6122, YR=0.5122
+Chabacano: X=559, Y=650, XR=0.51, YR=0.5122
+Lázaro Cárdenas: X=470, Y=650, XR=0.4288, YR=0.5122
+Centro Médico: X=377, Y=650, XR=0.344, YR=0.5122
+Chilipancingo: X=320, Y=652, XR=0.292, YR=0.5138
+Patriotismo: X=230, Y=652, XR=0.2099, YR=0.5138
+Tacubaya: X=150, Y=650, XR=0.1369, YR=0.5122
+
+Línea A (Pantitlán – La Paz)
+Pantitlán: X=879, Y=616, XR=0.802, YR=0.4854
+Agrícola Oriental: X=912, Y=653, XR=0.8321, YR=0.5146
+Canal de San Juan: X=913, Y=691, XR=0.833, YR=0.5445
+Tepalcates: X=913, Y=723, XR=0.833, YR=0.5697
+Guelatao: X=912, Y=757, XR=0.8321, YR=0.5965
+Peñón Viejo: X=913, Y=793, XR=0.833, YR=0.6249
+Acatitla: X=912, Y=827, XR=0.8321, YR=0.6517
+Santa Marta: X=912, Y=863, XR=0.8321, YR=0.6801
+Los Reyes: X=929, Y=899, XR=0.8476, YR=0.7084
+La Paz: X=953, Y=923, XR=0.8695, YR=0.7273
+
+Línea B (Buenavista – Ciudad Azteca)
+Buenavista: X=329, Y=355, XR=0.3002, YR=0.2797
+Guerrero: X=377, Y=359, XR=0.344, YR=0.2829
+Garibaldi-Lagunilla: X=453, Y=359, XR=0.4133, YR=0.2829
+Lagunilla: X=552, Y=360, XR=0.5036, YR=0.2837
+Tepito: X=612, Y=362, XR=0.5584, YR=0.2853
+Morelos: X=670, Y=388, XR=0.6113, YR=0.3058
+San Lázaro: X=711, Y=427, XR=0.6487, YR=0.3365
+Ricardo Flores Magón: X=750, Y=426, XR=0.6843, YR=0.3287
+Romero Rubio: X=791, Y=408, XR=0.7217, YR=0.3215
+Oceanía: X=815, Y=382, XR=0.7436, YR=0.301
+Deportivo Oceanía: X=847, Y=352, XR=0.7728, YR=0.2774
+Bosque de Aragón: X=859, Y=323, XR=0.7838, YR=0.2545
+Villa de Aragón: X=859, Y=292, XR=0.7838, YR=0.2301
+Nezahualcóyotl: X=859, Y=260, XR=0.7838, YR=0.2049
+Impulsora: X=859, Y=231, XR=0.7838, YR=0.182
+Río de los Remedios: X=861, Y=198, XR=0.7856, YR=0.156
+Múzquiz: X=859, Y=168, XR=0.7838, YR=0.1324
+Ecatepec: X=859, Y=134, XR=0.7838, YR=0.1056
+Olímpica: X=859, Y=105, XR=0.7838, YR=0.0827
+Plaza Aragón: X=861, Y=74, XR=0.7856, YR=0.0583
+Ciudad Azteca: X=859, Y=42, XR=0.7838, YR=0.0331
+
+Línea 12 (Tláhuac – Mixcoac)
+Tláhuac: X=898, Y=1235, XR=0.8193, YR=0.9732
+Tlaltenco: X=876, Y=1209, XR=0.7993, YR=0.9527
+Zapotitlán: X=850, Y=1190, XR=0.7755, YR=0.9377
+Nopalera: X=827, Y=1163, XR=0.7546, YR=0.9165
+Olivos: X=804, Y=1141, XR=0.7336, YR=0.8991
+Tezonco: X=782, Y=1119, XR=0.7135, YR=0.8818
+Periférico Oriente: X=758, Y=1091, XR=0.6916, YR=0.8597
+Calle 11: X=738, Y=1059, XR=0.6734, YR=0.8345
+Lomas Estrella: X=738, Y=1022, XR=0.6734, YR=0.8054
+San Andrés Tomatlán: X=740, Y=987, XR=0.6752, YR=0.7778
+Cuhualcan: X=740, Y=952, XR=0.6752, YR=0.7502
+Atlalilco: X=740, Y=911, XR=0.6752, YR=0.7179
+Mexicaltzingo: X=668, Y=914, XR=0.6095, YR=0.7203
+Ermita: X=561, Y=873, XR=0.5119, YR=0.6879
+Eje Central: X=518, Y=872, XR=0.4726, YR=0.6872
+Parque de los Venados: X=463, Y=791, XR=0.4224, YR=0.6233
+Zapata: X=378, Y=793, XR=0.3449, YR=0.6249
+Hospital 20 de Noviembre: X=290, Y=791, XR=0.2646, YR=0.6233
+Insurgentes Sur: X=215, Y=788, XR=0.1962, YR=0.621
+Mixcoac: X=148, Y=791, XR=0.135, YR=0.6233
